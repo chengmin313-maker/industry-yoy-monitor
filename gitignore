@@ -1,0 +1,14 @@
+# 月營收快取（每人自己爬取產生）
+revenue_cache/
+
+# 產業分類 Excel（含個人自訂分類，不公開）
+成分股細產業整理*.xlsx
+
+# 輸出檔案（每次執行自動產生）
+industry_yoy_history.csv
+industry_yoy_alerts.csv
+industry_top5_history.csv
+
+# Python
+__pycache__/
+*.pyc
